@@ -345,9 +345,9 @@ This project demonstrates the ability to move from:
 
 **VENKATA MANI SHANKAR**
 
-📧 Email: [komaralamanishankar2392@gmail.com](mailto:komaralamanishankar2392@gmail.com)
+📧 Email: komaralamanishankar2392@gmail.com
 
-🔗 LinkedIn: [K. Venkata Mani Shankar](https://www.linkedin.com/in/k-venkata-mani-shankar)
+🔗 LinkedIn: https://www.linkedin.com/in/k-venkata-mani-shankar
 
 💻 GitHub: https://github.com/manishankar2392
 
