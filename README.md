@@ -1,4 +1,5 @@
-Tech Workforce Trends: Earnings, Work Modes & AI Sentiment
+Stack-Overflow-Analysis-2024
+
 📊 Overview
 This project analyzes global technology workforce data, focusing on three key dimensions:
 
