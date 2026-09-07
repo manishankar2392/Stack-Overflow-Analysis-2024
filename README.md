@@ -349,7 +349,7 @@ This project demonstrates the ability to move from:
 
 🔗 LinkedIn: [K. Venkata Mani Shankar](https://www.linkedin.com/in/k-venkata-mani-shankar)
 
-💻 GitHub: [manishankar2392](https://github.com/manishankar2392)
+💻 GitHub: https://github.com/manishankar2392
 
 ---
 
